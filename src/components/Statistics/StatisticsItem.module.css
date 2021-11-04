@@ -1,0 +1,13 @@
+.item {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  color: white;
+  padding: 5px 0 5px 0;
+}
+
+.percentage {
+  color: #fff;
+}

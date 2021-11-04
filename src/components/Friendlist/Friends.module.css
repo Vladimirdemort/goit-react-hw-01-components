@@ -1,0 +1,15 @@
+.item {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.status {
+}
+
+.avatar {
+  border: purple;
+}
+
+.name {
+  font-weight: 600;
+}
